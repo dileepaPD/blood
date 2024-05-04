@@ -71,7 +71,7 @@ class abState extends State<ab> {
                     ),
                   ),
                   Text(
-                    "Welcome to blood donation camp applly",
+                    "Welcome to blood donation camp ",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         fontSize: 20,
